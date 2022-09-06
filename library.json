@@ -1,0 +1,19 @@
+{
+    "name": "Esp8266_WiFi",
+    "keywords": "esp8266, wifi",
+    "description": "Library handles AT command communication over USART.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Majoneza/Esp8266_WiFi.git"
+    },
+    "version": "1.0.0",
+    "authors": {
+        "name": "Majoneza"
+    },
+    "license": "MIT",
+    "frameworks": ["arduino"],
+    "platforms": "*",
+    "build": {
+        "libArchive": false
+    }
+}
